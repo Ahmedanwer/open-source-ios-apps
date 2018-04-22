@@ -8,6 +8,12 @@ A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [cont
 
 ![](https://img.shields.io/badge/Projects-806-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2017,%202018-lightgrey.svg)
 
+## Recommended SDK for bug and crash reporting [Instabug](https://try.instabug.com/ios/?utm_source=opensourceios&utm_medium=spon&utm_content=header)
+[![react-native](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/awesomeios/?utm_source=ios&utm_medium=spon&utm_content=banner)
+> We highly recommend using Instabug’s SDK while betatesting to recieve detailed bug and crash reports from earily adoptors. 
+The SDK removed the hassle of debugging by automatically attaching screen recordings, device details, network logs and repro-steps with each report to help you speed up the development process. [**Learn more.**](https://try.instabug.com/awesomeios/?utm_source=ios&utm_medium=spon&utm_content=learnmore)🚀
+[![](https://instabug-ga.appspot.com/UA-41982088-6/github/opensourceios?pixel)](https://instabug.com)
+
 Jump to
 
 - [Apple TV](#apple-tv) 
